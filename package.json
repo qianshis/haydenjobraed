@@ -1,0 +1,33 @@
+{
+  "name": "haydenjobraed",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "haydenjobraed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qianshis/haydenjobraed"
+  },
+  "website": "https://github.com/qianshis/haydenjobraed.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "qianshis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianshis/haydenjobraed/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/qianshis/haydenjobraed#readme",
+  "dependencies": {
+    "stewardtaylor": "1.0.2"
+  }
+}
